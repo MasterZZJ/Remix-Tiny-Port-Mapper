@@ -1,0 +1,14 @@
+{
+  "server": {
+    "address": "z790.arthasjian.online",
+    "port": 9876,
+    "isIPv6": true,
+    "needDNS": true
+  },
+  "client": {
+    "address": "localhost",
+    "port": 8888,
+    "isIPv6": false,
+    "needDNS": true
+  }
+}

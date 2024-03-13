@@ -1,0 +1,1 @@
+{"server": {"address": "[2409:8a14:c5d:b4a4:15c8:4f87:51cf:a5fe]", "port": 9876, "isIPv6": true, "needDNS": true}, "client": {"address": "127.0.0.1", "port": 8888, "isIPv6": false, "needDNS": true}}
